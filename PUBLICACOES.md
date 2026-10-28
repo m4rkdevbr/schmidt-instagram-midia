@@ -12,3 +12,4 @@ Perfil: [@aschmidtsolucoes](https://instagram.com/aschmidtsolucoes) (Schmidt Sol
 | 28/10/2026 08:33 | [Post "Planejamento 2027: 5 perguntas"](https://www.instagram.com/p/DfCVdNKEd6t/) | Imagem (fundo marinho) | 1 | 18009250733786004 | Publicado e confirmado; imagem apagada do repositório |
 | 28/10/2026 08:45 | [Post "Um acesso. Toda a rede conectada."](https://www.instagram.com/p/DfCWz4zESpn/) | Imagem (fundo claro) | 1 | 17902781865378212 | Publicado e confirmado |
 | 28/10/2026 08:46 | [Post "Dá para ensinar computação sem computador?"](https://www.instagram.com/p/DfCW2YNkUTS/) | Imagem (fundo marinho) | 1 | 18217298044360282 | Publicado e confirmado |
+| 28/10/2026 08:55 | [Post "Do registro ao dossiê"](https://www.instagram.com/p/DfCXzIuEb-V/) | Imagem (fundo claro) | 1 | 18320640832304843 | Publicado |
